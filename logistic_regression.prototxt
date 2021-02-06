@@ -1,4 +1,3 @@
-name: "LogReg"
 layer {
   name: "mnist"
   type: "Data"
